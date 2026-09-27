@@ -9,5 +9,5 @@ A lightweight, open-source C++ utility designed to safely clear the Rockstar Gam
 
 ## 🚀 How to use
 1. **Close** the Rockstar Games Launcher completely.
-2. Run the `Rockstar-Launcher-EcoCleaner.exe`.
+2. Run the `RockstarCleaner.exe`.
 3. Done!
